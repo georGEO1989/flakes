@@ -1,6 +1,5 @@
 {
-  "name": "Flakes Framework",
-  "version": "0.0.1",
+  "name": "flakes",
   "dependencies": {
     "jquery": "~2.1.1",
     "jquery-ui": "~1.10.3",
